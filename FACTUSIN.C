@@ -1,8 +1,3 @@
-/*Write a C programme to find the factorial of a given number using recursive functions.*/
-
-   //Factorial using recursion//      //Date:26-11-2015//
-   	
-
 #include<stdio.h>
 long int FACT(long int );
 void main()
