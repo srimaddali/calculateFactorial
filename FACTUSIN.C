@@ -23,9 +23,3 @@ long int FACT(long int n)
 	else
 	return (n*FACT(n-1));
 }
-/*
-Output:
-Enter a number:
-7
-The factorial of 7 is 5040
-*/
